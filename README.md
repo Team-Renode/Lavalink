@@ -20,7 +20,7 @@ A [basic example bot](https://github.com/lavalink-devs/lavalink-client/tree/main
 * Explore [available plugins](https://lavalink.dev/plugins) for extra features
 * See also our [FAQ](https://lavalink.dev/getting-started/faq)
 <details>
-<summary>Table of Contents</summary>
+<summary>Table of Contents</summary>highihihih
 
 - [Features](#features)
 - [Requirements](#requirements)
